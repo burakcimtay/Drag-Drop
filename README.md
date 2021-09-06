@@ -7,5 +7,7 @@ You can move the rectangles with your fingers.
 ## Requirements
 
 pip install opencv-python
-pip install mediapipe 
+
+pip install mediapipe
+
 pip install cvzone
